@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/sergiolstavares/sergiolstavares/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/sergiolstavares/sergiolstavares/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
